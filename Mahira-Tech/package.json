@@ -1,0 +1,21 @@
+{
+  "name": "mahira-tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://palle-divya-latha.github.io/Mahira-Tech",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "echo 'Static project, no build required'",
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
